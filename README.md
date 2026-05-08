@@ -1,5 +1,5 @@
 - Nama  : Dyma Dwi Handhara
-- NIM   : 25161562069
+- NPM   : 25161562069
 - Kelas : 2A
 
 ## Catatan Penamaan Class
